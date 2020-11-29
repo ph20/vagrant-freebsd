@@ -1,4 +1,5 @@
 # Vagrant-FreeBSD
+[![RubyGems](http://img.shields.io/gem/v/vagrant-freebsd.svg)](http://rubygems.org/gems/vagrant-freebsd)
 
 # Description
 
